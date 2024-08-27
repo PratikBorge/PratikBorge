@@ -5,7 +5,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I'm a passionate DevOps engineer with hands-on experience in cloud infrastructure, CI/CD pipelines, containerization technologies and workflow automation. I'm currently pursuing internship at Hisan Labs Private Limited. Eager to contribute to a
+I'm a passionate DevOps engineer with hands-on experience in cloud infrastructure, CI/CD pipelines, containerization technologies and workflow automation. Eager to contribute to a
 dynamic team and drive continuousimprovement in a fast-paced environment.
 
 ### 🥷Skills
